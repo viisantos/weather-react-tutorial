@@ -6,3 +6,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## this is a tutorial of a React Weather Web app
+based on: https://www.youtube.com/live/496dPOJCfDw?si=a1hNA7cbazV67zgl
